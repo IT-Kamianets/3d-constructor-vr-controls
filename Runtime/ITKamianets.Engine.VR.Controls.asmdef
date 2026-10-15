@@ -1,0 +1,20 @@
+{
+    "name": "ITKamianets.Engine.VR.Controls",
+    "rootNamespace": "ITKamianets.Engine.VR",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.Input",
+        "ITKamianets.Engine.Character",
+        "ITKamianets.Engine.XR",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

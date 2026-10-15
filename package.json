@@ -1,0 +1,22 @@
+{
+  "name": "com.itkamianets.3d-constructor-vr-controls",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: VR Constructor Controls",
+  "description": "VR controls for the IT-Kamianets 3D Engine: XR controllers to CharacterCommand (stick movement relative to the head, turning, room-scale steps, real crouching) and the hand aim ray, the VR counterpart of the character-view controls.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets"
+  ],
+  "dependencies": {
+    "com.itkamianets.3d-unity-core": "0.1.0",
+    "com.itkamianets.3d-unity-input": "0.1.0",
+    "com.itkamianets.3d-unity-character": "0.1.0",
+    "com.itkamianets.3d-unity-xr": "0.1.0",
+    "com.unity.inputsystem": "1.20.0"
+  }
+}

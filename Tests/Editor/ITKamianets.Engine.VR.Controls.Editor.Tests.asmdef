@@ -1,0 +1,25 @@
+{
+    "name": "ITKamianets.Engine.VR.Controls.Editor.Tests",
+    "rootNamespace": "ITKamianets.Engine.VR",
+    "references": [
+        "ITKamianets.Engine.VR.Controls",
+        "ITKamianets.Engine.VR.Controls.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
